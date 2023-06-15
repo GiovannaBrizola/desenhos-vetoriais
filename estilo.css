@@ -1,0 +1,28 @@
+.img1{
+    width: 550px;
+    height: 300px;
+}
+
+.img2{
+    width: 650px;
+    height: 500px;  
+}
+
+.img3{
+    width: 550px;
+    height: 500px;  
+}
+
+body{
+    background-color: rgb(24, 35, 25)50;
+}
+
+.quadro{
+    background-color: rgb(199, 140, 159);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    margin: 20px;
+    padding: 20px;
+    text-align: justify
+      
+}
